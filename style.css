@@ -18,8 +18,11 @@ body {
 
 .back-img {
   background-image: url(./img/image-header.jpg);
-  height:90vh;
+  height:80vh;
   background-position: center bottom;
+}
+
+.text-change{
 }
 
 .ham-ber{

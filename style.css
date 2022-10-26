@@ -18,12 +18,10 @@ body {
 
 .back-img {
   background-image: url(./img/image-header.jpg);
-  height:80vh;
+  height:75vh;
   background-position: center bottom;
 }
 
-.text-change{
-}
 
 .ham-ber{
     background-color:hsl(0, 0%, 100%); 

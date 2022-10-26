@@ -11,26 +11,20 @@
 
 
 body {
-  /* font-family: Arial, Helvetica, sans-serif; */
-  font-family: 'Inter', sans-serif;
+  font-family: 'Barlow', sans-serif;
   scroll-behavior: smooth;
 }
-/* header */
+
 
 .back-img {
   background-image: url(./img/image-header.jpg);
-  height:100vh;
+  height:90vh;
   background-position: center bottom;
 }
 
 .ham-ber{
-    background-color:hsl(0, 0%, 100%);
-    
+    background-color:hsl(0, 0%, 100%); 
 }
-
-/* header */
-
- /* section-3 */
 
 .bg-img-1{
   background-image: url(./img/image-graphic-design.jpg);
@@ -56,23 +50,15 @@ body {
   color: hsl(198, 62%, 26%);
 }
 
-/* section-3 */
-
-/* section-4 */
-
-
 
 .heading{
   color: hsl(232, 10%, 55%);
 }
 
-/* /section-4 */
-
-/* footer */
 .footer-group{
   background-color: hsl(168, 34%, 41%);
   height: 30vh;
   color: hsl(167, 40%, 24%);
 }
-/* /footer */
+
 
